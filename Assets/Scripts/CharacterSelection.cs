@@ -80,7 +80,7 @@ public class CharacterSelection : MonoBehaviour
         }
         else if (gm.countPlayerJoined == 2)
         {
-            playerpos = new Vector3(4.78f, -0.99f, -1);
+            playerpos = new Vector3(5.2f, -0.99f, -1);
         }
 
         //set default after player join
